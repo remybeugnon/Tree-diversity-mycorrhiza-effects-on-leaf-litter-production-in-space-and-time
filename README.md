@@ -8,11 +8,9 @@
 
 **Data DOIs:**  
 
-*Leaf litterfall biomass* 
+*Leaf litterfall biomass & wood biomass increment*  Bönisch, E., Beugnon, R., Gormanns, R., & Eisenhauer, N. (2026). Monthly species-level leaf litterfall biomass in the MyDiv tree diversity experiment (2023–2024) [Dataset]. MyDiv database. https://doi.org/10.25829/SAHC-C606
 
-*Leaf litterfall C, N, P* Bönisch, E., Beugnon, R., Walter, A., & Diane, A. (2026). Species-level leaf litter C, N, and P concentrations in the MyDiv tree diversity experiment (2023–2024) [Dataset]. MyDiv database. https://doi.org/10.25829/PH0D-S656
-
-*Tree inventory data (for wood biomass and biomass increment):* 2022, 2023
+*Leaf litterfall C, N, P* Bönisch, E., Beugnon, R., Walter, A., Diane, A., & Eisenhauer, N. (2026). Monthly species-level leaf litter C, N, and P concentrations in the MyDiv tree diversity experiment (2023–2024) [Dataset]. MyDiv database. https://doi.org/10.25829/PH0D-S656
 
 *Precipitation data:* data from DWD (Deutscher Wetterdienst) for Bad Lauchstädt (Wetterstation 02878; 2018-2024, monthly data) https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/
 
